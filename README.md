@@ -131,7 +131,6 @@ If you have any questions, please feel free to submit an issue or contact `fangq
 If our work is useful for you, please cite as:
 
 ```
-
 @article{fang2025llamaomni2,
   title={{LL}a{MA}-{O}mni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis},
   author={Fang, Qingkai and Zhou, Yan and Guo, Shoutao and Zhang, Shaolei and Feng, Yang},

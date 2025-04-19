@@ -1,0 +1,2 @@
+from .language_model.omni2_speech_qwen2 import Omni2SpeechQwen2ForCausalLM, Omni2SpeechQwen2Config
+from .language_model.omni2_speech2s_qwen2 import Omni2Speech2SQwen2ForCausalLM

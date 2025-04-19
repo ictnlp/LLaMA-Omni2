@@ -1,0 +1,102 @@
+[
+    {
+        "id": "helpful_base_0",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "What are the names of some famous actors that started their careers on Broadway?",
+                "speech": "examples/wav/helpful_base_0.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_1",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "How did US states get their names?",
+                "speech": "examples/wav/helpful_base_1.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_2",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "Hi, my sister and her girlfriends want me to play kickball with them. Can you explain how the game is played, so they don't take advantage of me?",
+                "speech": "examples/wav/helpful_base_2.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_3",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "What is some cool music from the 1920s?",
+                "speech": "examples/wav/helpful_base_3.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_4",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "How do I wrap a present neatly?",
+                "speech": "examples/wav/helpful_base_4.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_5",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "How do I dice without slicing my finger?",
+                "speech": "examples/wav/helpful_base_5.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_6",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "Hi, I'm trying to solve a crossword puzzle, but I've never done one of these before. Can you help me out?",
+                "speech": "examples/wav/helpful_base_6.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_7",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "Who is Larry Page?",
+                "speech": "examples/wav/helpful_base_7.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_8",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "What are different drawers I should have for clothes?",
+                "speech": "examples/wav/helpful_base_8.wav"
+            }
+        ]
+    },
+    {
+        "id": "helpful_base_9",
+        "conversation": [
+            {
+                "from": "human",
+                "text": "I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Georgian  dishes. Can you give me a recipe for Kubdari?",
+                "speech": "examples/wav/helpful_base_9.wav"
+            }
+        ]
+    }
+]

@@ -53,7 +53,7 @@ huggingface-cli download --resume-download ICTNLP/cosy2_decoder --local-dir mode
 
 ```shell
 model_name=LLaMA-Omni2-7B-Bilingual
-huggingface-cli download --resume-download ICTNLP/$model_name --local-dir models/$model_name
+huggingface-cli download ICTNLP/$model_name --local-dir models/$model_name
 ```
 
 | LLaMA-Omni2                                                           | LLaMA-Omni2-Bilingual                                                                     |

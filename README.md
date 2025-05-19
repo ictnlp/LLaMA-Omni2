@@ -44,7 +44,7 @@ model = whisper.load_model("large-v3", download_root="models/speech_encoder/")
 2. Download the flow-matching model and vocoder of `CosyVoice 2`.
 
 ```shell
-huggingface-cli download --resume-download ICTNLP/cosy2_decoder --local-dir models/cosy2_decoder
+huggingface-cli download ICTNLP/cosy2_decoder --local-dir models/cosy2_decoder
 ```
 
 > [!Tip]
@@ -58,7 +58,7 @@ huggingface-cli download --resume-download ICTNLP/cosy2_decoder --local-dir mode
 
 ```shell
 model_name=LLaMA-Omni2-7B-Bilingual
-huggingface-cli download --resume-download ICTNLP/$model_name --local-dir models/$model_name
+huggingface-cli download ICTNLP/$model_name --local-dir models/$model_name
 ```
 
 | LLaMA-Omni2                                                           | LLaMA-Omni2-Bilingual                                                                     |

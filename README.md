@@ -5,10 +5,15 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2505.02625-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.02625)
 [![code](https://img.shields.io/badge/Github-Code-keygen.svg?logo=github)](https://github.com/ictnlp/LLaMA-Omni2)
 [![models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging_Face-Models-blue.svg)](https://huggingface.co/collections/ICTNLP/llama-omni-67fdfb852c60470175e36e9c)
+[![dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging_Face-Dataset-blue.svg)](https://huggingface.co/datasets/ICTNLP/Multiturn-Speech-Conversations)
 
 LLaMA-Omni 2 is a series of speech-language models built on the Qwen2.5-0.5B/1.5B/3B/7B/14B/32B-Instruct models. Similar to [LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni), it can generate both text and speech responses simultaneously, enabling high-quality and low-latency speech interaction. With the newly introduced streaming autoregressive speech decoder, LLaMA-Omni 2 achieves higher speech quality compared to LLaMA-Omni.
 
 <div align="center"><img src="images/llama-omni2.png" width="75%"/></div>
+
+## 🔥 News
+
+- [25/05] LLaMA-Omni 2 is accepted at ACL 2025 main conference!
 
 ## Install
 
@@ -131,10 +136,11 @@ If you have any questions, please feel free to submit an issue or contact `fangq
 If our work is useful for you, please cite as:
 
 ```
-@article{fang2025llamaomni2,
-  title={{LL}a{MA}-{O}mni2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis},
+@inproceedings{
+  fang2025llamaomni2,
+  title={{LL}a{MA}-{O}mni 2: LLM-based Real-time Spoken Chatbot with Autoregressive Streaming Speech Synthesis},
   author={Fang, Qingkai and Zhou, Yan and Guo, Shoutao and Zhang, Shaolei and Feng, Yang},
-  journal={arXiv preprint arXiv:2505.02625},
+  booktitle = {Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics},
   year={2025}
 }
 
